@@ -1,2 +1,7 @@
 # weight-converter
-Brad Traversy Weight Calculator
+Weight Calculator
+
+Converting Pounds to:
+- Grams
+- Kilograms
+- Ounces
